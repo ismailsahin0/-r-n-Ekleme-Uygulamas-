@@ -8,7 +8,7 @@ A small application I wrote using Vue.js.
 OS X & Linux:
 
 ```sh
-npm install my-crazy-module --save
+npm install
 ```
 ```sh
 npm start
